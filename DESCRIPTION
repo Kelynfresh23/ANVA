@@ -1,0 +1,14 @@
+Package: ANVA
+Type: Package
+Title: Realiza un análisis de varianza para datos completamente al azar con igual número de unidades por tratamiento
+Version: 0.1.0
+Author: Ordaz Rodríguez Kelyn Lizeth  
+Maintainer: The package maintainer <al21116265@chapingo.mx>
+Description: Este paquete realiza un anova con el mismo número
+    unidades por tratamieno, (4 trat y 4 variables) de datos cuantitativos al azar
+References: Infante, S. y Zarate, G. Métodos estadísticos. (2012). Un enfoque interdisciplicario. 3a Edición. Editorial La Gaya Ciencia.
+    Padrón, E. (2009). Diseños Experimentales con aplicación a la agricultura y la ganadería. México, 2a Edición. Editorial Trillas.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
